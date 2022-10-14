@@ -1,2 +1,2 @@
 # sudaf
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"RT Zimbabwe","sourceCam":["https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODEyNjEyNjdf/tpa.jpg","titleCam":"SCBC 1"}]}]}
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"CNBC Africa","sourceCam":["https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1NzkwOTRf/cnbcafr.webp","titleCam":"CNBC AFRICA"}]}]}
