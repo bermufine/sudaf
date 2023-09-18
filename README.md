@@ -1,5 +1,7 @@
 # sudaf
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"CNBC Africa","sourceCam":["https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1NzkwOTRf/cnbcafr.webp","titleCam":"CNBC AFRICA"},
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"CNBC Africa","sourceCam":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4295"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1NzkwOTRf/cnbcafr.webp","titleCam":"NU VIEW"},
+
+{"descriptionCam":"CNBC Africa","sourceCam":["https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1NzkwOTRf/cnbcafr.webp","titleCam":"CNBC AFRICA"},
 
 {"descriptionCam":"Cape Town TV, otherwise known as CTV, is a non-profit, free-to-air, community television station licensed to serve the greater Cape Town metropolitan area. The channel is owned and controlled by the community and provides access by stakeholder groups to the powerful medium of television as a tool for community development and social change. CTV promotes active participation of the community by supporting emerging and established producers, NGOs, hyper-local TV initiatives to be content creators. In-so-doing, CTV aims to strengthen the communication capacity of civil society and acts as an incubator for emerging, local talent in the film and television sector and related cultural industries.","sourceCam":["https://capetowntv.net/lvod/6107c8d77d6b693df801ae2e/6-vod/source.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ4MTE2ODVf/CapeTown.jpg","titleCam":"CAPE TOWN TV"},
 
