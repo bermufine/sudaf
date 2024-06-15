@@ -5,6 +5,8 @@
 
 {"descriptionCam":"Super Sport Action","sourceCam":["http://185.59.221.131:8081/live/supersportaction/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NDZfNTMxNTc0NTZf/supersportactions.png","titleCam":"SUPER SPORT ACTION"},
 
+{"descriptionCam":"Super Sport Blitz","sourceCam":["http://185.59.221.131:8081/live/supersportblitz/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NDZfNTMxNTg5ODNf/supersportblitz.jpeg","titleCam":"SUPER SPORT BLITS"},
+
 {"descriptionCam":"CNBC Africa","sourceCam":["https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1NzkwOTRf/cnbcafr.webp","titleCam":"CNBC AFRICA"},
 
 {"descriptionCam":"Seraphin TV est une chaine chretienne emettant en afrique du sud","sourceCam":["https://tv.prayertime.co.za:3638/stream/play.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODU3MDg3ODVf/rabboni.png","titleCam":"SERAPHIN TV"},
